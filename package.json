@@ -1,0 +1,10 @@
+{
+  "name": "git-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "git-fetch-pack": "0.1.1",
+    "git-transport-protocol": "0.1.0"
+  }
+}
