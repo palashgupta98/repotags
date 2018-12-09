@@ -1,10 +1,23 @@
 {
-  "name": "git-repo",
+  "name": "repo-tags",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "email": "palashg7563@gmail.com",
+    "name": "Palash Gupta"
+  },
+  "keywords": [
+    "tags",
+    "repo",
+    "github"
+  ],
   "dependencies": {
     "git-fetch-pack": "0.1.1",
     "git-transport-protocol": "0.1.0"
+  },
+  "repository": {
+    "url": "https://github.com/palashg7563/repotags",
+    "type": "git"
   }
 }
