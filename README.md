@@ -3,7 +3,11 @@
 #### Getting started
 
 Want to know the version of the repo justing bu entering the repo address
-just vanilla javascript is used
+as just vanilla javascript is used
+
+```js
+npm install repo-tags
+```
 
 ```js
 const tags = require("repo-tags");
