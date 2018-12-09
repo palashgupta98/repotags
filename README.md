@@ -2,7 +2,7 @@
 
 #### Getting started
 
-Want to know the version of the repo justing bu entering the repo address
+Want to know the version of the repo justing by entering the repo address
 as just vanilla javascript is used
 
 ```js
